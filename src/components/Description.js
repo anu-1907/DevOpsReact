@@ -8,7 +8,12 @@ const Description = () => {
       in React, an awesome Javascript Library made by Facebook.
       
       This change is the part of the DevOps pet project.
-      Keep it going guys!
+      Keep it going guys! 
+
+
+      This is done by surbhi pathak and she is kind of stupid
+      this is changes
+
 
     </div>
   )
